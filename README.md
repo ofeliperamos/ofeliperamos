@@ -1,8 +1,9 @@
 Olá, sou  o Felipe, Bacharel em Sistemas de informação, focado em Front-end, Gestão e processos de T.I. e outras tecnologias. 📚💻
 <Br>
 	
-Atualizando meu repositório.
-
+	
+Aos poucos irei atualizando o  repositorio . 
+ 
 <br>
 Praticando em alguns projetos. 🤓
 
