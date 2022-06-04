@@ -1,8 +1,8 @@
-Olá, sou  o Felipe, Bacharel em Sistemas de informação, focado em Front-end, Gestão e processos de T.I. e outras tecnologias. 📚💻
+Olá, sou  o Felipe, Bacharel em Sistemas de informação, Pós-graduando Gestão de projetos em T.I. e estudando front-end. 📚💻
 <Br>
 	
 	
-Aos poucos irei atualizando o  repositorio . 
+
  
 <br>
 Praticando em alguns projetos. 🤓
@@ -11,6 +11,7 @@ Praticando em alguns projetos. 🤓
 
 
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Fel-Html" height="60" width="60"   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
   <img align="center" alt="Fel-Css" height="60" width="60"    <img src="https://img.icons8.com/color/96/000000/css3.png"/>
