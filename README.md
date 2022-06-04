@@ -1,11 +1,11 @@
-Olá, sou  o Felipe, Bacharel em Sistemas de informação, Pós-graduando Gestão de projetos em T.I. e estudando front-end. 📚💻
+Olá, sou  o Felipe, Bacharel em Sistemas de informação, Pós-graduando em Gestão de projetos em T.I. e estudando front-end e outras tecnologias na Alura . 📚💻
 <Br>
 	
 	
 
  
 <br>
-Praticando em alguns projetos. 🤓
+Praticando em alguns projetos e dominio nas seguintes tecnologias e ferramentas. 🤓
 
 
 
