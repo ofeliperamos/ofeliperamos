@@ -21,9 +21,8 @@ Praticando em alguns projetos e dominio nas seguintes tecnologias e ferramentas.
   <img align="center" alt="Fel-Python" height="60" width="60" <img src="https://img.icons8.com/fluency/96/000000/python.png"/>
   <img align="center" alt="Fel-Arduino" height="60" width="60" <img src="https://img.icons8.com/fluency/96/000000/arduino.png"/>
   <img align="center" alt="Fel-Rasp" height="60" width="60"    <img src="https://img.icons8.com/office/80/000000/raspberry-pi.png"/>	
-  <img align="center" alt="Fel-Post" height="60" width="60"    <img src="https://img.icons8.com/color/96/c-sharp-logo-2.png""/>
-	
-  <img align="center" alt="Fel-Git" height="60" width="60"     <img src="https://img.icons8.com/color/96/000000/git.png"/>
+  <img align="center" alt="Fel-C#" height="60" width="60"    <img src="https://img.icons8.com/color/96/c-sharp-logo-2.png""/>
+ <img align="center" alt="Fel-SQL" height="60" width="60"     <img src="https://img.icons8.com/color/96/microsoft-sql-server.png"/>
 </div>
 <br>
 </br>
