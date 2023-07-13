@@ -1,4 +1,4 @@
-Olá, sou  o Felipe, Bacharel em Sistemas de informação, Pós-graduando em Gestão de projetos em T.I. e estudando front-end e outras tecnologias na Alura . 📚💻
+Olá, sou  o Felipe Ramos 📚💻
 <Br>
 	
 	
@@ -20,8 +20,9 @@ Praticando em alguns projetos e dominio nas seguintes tecnologias e ferramentas.
   <img align="center" alt="Fel-Node" height="60" width="60"   <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
   <img align="center" alt="Fel-Python" height="60" width="60" <img src="https://img.icons8.com/fluency/96/000000/python.png"/>
   <img align="center" alt="Fel-Arduino" height="60" width="60" <img src="https://img.icons8.com/fluency/96/000000/arduino.png"/>
-  <img align="center" alt="Fel-Rasp" height="60" width="60"    <img src="https://img.icons8.com/office/80/000000/raspberry-pi.png"/>
-  <img align="center" alt="Fel-Post" height="60" width="60"    <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
+  <img align="center" alt="Fel-Rasp" height="60" width="60"    <img src="https://img.icons8.com/office/80/000000/raspberry-pi.png"/>	
+  <img align="center" alt="Fel-Post" height="60" width="60"    <img src="https://img.icons8.com/color/96/c-sharp-logo-2.png""/>
+	
   <img align="center" alt="Fel-Git" height="60" width="60"     <img src="https://img.icons8.com/color/96/000000/git.png"/>
 </div>
 <br>
